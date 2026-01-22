@@ -1,0 +1,28 @@
+.boton-contenedor {
+    height: 83px;
+    display: flex;
+    flex: 1 1; /* 1 1 significa que el elemento se expandirá para ocupar el espacio disponible */
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #1b1b32;
+    color: white;
+    border-radius: 25px;
+    margin: 4px;
+    border: 2px solid white;
+    cursor: pointer;
+    user-select: none; /* Permite que el usuario no seleccione el texto */
+}
+
+.boton-contenedor:hover {
+    background-color: #5a01a7;
+}
+
+.operador {
+    background-color: #00471b;
+}
+
+.operador:hover {
+    background-color: #f60;
+}
