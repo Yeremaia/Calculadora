@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/Calculadora/static/css/main.8132674f.css",
-    "main.js": "/Calculadora/static/js/main.564f0363.js",
-    "static/media/freecCodeCampLogo.png": "/Calculadora/static/media/freecCodeCampLogo.e21c6913cdf04d95943d.png",
+    "main.css": "/Calculadora/static/css/main.54722df1.css",
+    "main.js": "/Calculadora/static/js/main.f269df1a.js",
     "index.html": "/Calculadora/index.html",
-    "main.8132674f.css.map": "/Calculadora/static/css/main.8132674f.css.map",
-    "main.564f0363.js.map": "/Calculadora/static/js/main.564f0363.js.map"
+    "main.54722df1.css.map": "/Calculadora/static/css/main.54722df1.css.map",
+    "main.f269df1a.js.map": "/Calculadora/static/js/main.f269df1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8132674f.css",
-    "static/js/main.564f0363.js"
+    "static/css/main.54722df1.css",
+    "static/js/main.f269df1a.js"
   ]
 }
