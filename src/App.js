@@ -2,7 +2,6 @@ import './App.css';
 import Boton from './componentes/boton';
 import Pantalla from './componentes/pantalla';
 import BotonClear from './componentes/BotonClear';
-import Logo from './componentes/logo';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
 
@@ -28,7 +27,6 @@ function App() {
 
   return (
     <div className="App">
-      <Logo />
       <div className='contenedor-calculadora'>
         <Pantalla input={input}/>
         <div className='fila'>
